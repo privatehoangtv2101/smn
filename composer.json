@@ -22,7 +22,9 @@
             "database/factories"
         ],
         "psr-4": {
-            "App\\": "app/"
+            "App\\": "app/",
+            "API\\": "api",
+            "APICaller\\": "api_caller"
         }
     },
     "autoload-dev": {
